@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HW2_Manan_Wason.iml" filepath="$PROJECT_DIR$/HW2_Manan_Wason.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw2_mc.iml" filepath="$PROJECT_DIR$/hw2_mc.iml" />
     </modules>
   </component>
 </project>
