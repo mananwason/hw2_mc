@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW2_Manan_Wason</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_text_name">Enter Name</string>
+    <string name="enter_age">Select Age</string>
+</resources>
